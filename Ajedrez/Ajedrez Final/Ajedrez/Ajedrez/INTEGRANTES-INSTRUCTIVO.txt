@@ -1,0 +1,19 @@
+Facultad de Ciencias UNAM
+Proyecto Final
+
+Integrantes:
+- Cobos Luna Aylin Yerami
+- Cruz Castro Sebastian 
+- Limón Cruz Andrés
+
+INSTRUCTIVO 
+
+Al compilar de manera javac *.java y posteriormente java Main 
+se nos muestra un Menú en donde podemos elegir del 1 al 4 en donde se nos permite acceder al Puntaje con el número 1,
+a una nueva partida con el número 2, a cargar una partida con el número 3 y a salir con el número 4.
+Cuando elegimos iniciar una nueva partida nos pide datos como nombre de la partida y nombres de los jugadores, 
+a partir de ahí comenzamos el juego eligiendo la pieza con base en su posicion que seria ingresar un número del 1 al 8 
+para escoger el renglon despues de haberlo ingresado nos pide otro numero del 1 al 8 para las filas y asi saber que 
+casilla corresponde la pieza que queremos mover, analogamente introducir con base en el mismo procedimiento la casilla 
+a donde se quiere que la pieza se mueva, de igual manera si el movimiento no se permite nos aparece la leyenda "movimiento invalido".
+Cuando un jugador se retira o pierde por mate, el puntaje del juego queda guardado en el archivo de texto "Puntaje.txt".

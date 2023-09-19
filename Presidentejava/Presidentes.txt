@@ -1,0 +1,4 @@
+"Andrés Manuel López Obrador", "Morena", 2018, 2024
+"Enrique Peña Nieto", "PRI", 2012, 2018
+"Felipe de Jesús Calderón Hinojosa", "PAN", 2006, 2012
+"Vicente Fox Quesada", "PAN", 2000, 2006
